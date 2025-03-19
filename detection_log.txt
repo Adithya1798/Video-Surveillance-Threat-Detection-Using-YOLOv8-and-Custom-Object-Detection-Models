@@ -1,0 +1,4 @@
+2025-03-20 02:04:24 - Processing Video 1: Video_NoThreat.mp4
+2025-03-20 02:05:07 - Video 1 - Video_NoThreat.mp4 classified as NOT a threat.
+2025-03-20 02:05:07 - Processing Video 2: Video_WomenGun.mp4
+2025-03-20 02:06:04 - Video 2 - Video_WomenGun.mp4 classified as a THREAT due to: gun

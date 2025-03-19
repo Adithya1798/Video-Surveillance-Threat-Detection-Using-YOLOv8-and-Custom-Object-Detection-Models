@@ -50,4 +50,4 @@ def process_video(video_path, output_file):
 
 # Run detection on two example videos
 process_video("Data/Video_Gun_Man_Women.mp4", "Results/results_1.txt")
-process_video("Data\Book_Obj.mp4", "Results/results_2.txt")
+process_video("Data/Video_NoThreat.mp4", "Results/results_2.txt")
